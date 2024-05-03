@@ -452,7 +452,7 @@ form .send-button{
     font-size: 15px;
     font-weight: 600;
     transition: all .50s ease;
-    width: 30%;
+    width: 100%;
 
 }
 
@@ -526,7 +526,7 @@ form .send-button:hover{
 
 @media (max-width: 1380px){
     header{
-        padding: 20px 5%;
+        padding: 20px 1%;
     }
     
 
@@ -546,6 +546,7 @@ form .send-button:hover{
 
 
     .hero{
+        margin-top: 50px;
         height: 100vh;
         background-position: center;
     }
